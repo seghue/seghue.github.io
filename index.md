@@ -27,6 +27,15 @@ Begging for a grand, circa 2000:
 
 -*Seghue*
 
+## Worms
+
+Post ID: 2  
+`27-01-2025`
+
+Writhing on the floor is so nice; worms have good taste.
+
+-*Seghue*
+
 
 <!-- 
 
