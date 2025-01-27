@@ -37,13 +37,12 @@ Writhing on the floor is so nice; worms have good taste.
 -*Seghue*
 
 
-<!-- 
+## Neuro-cathedrals
 
-## ~post-title~
+Post ID: 3  
+`27-01-2025`
 
-Post ID: 0  
-`dd-mm-yyyy`
+> "There are correlations everywhere for those with the input neurons to see them"
 
 -*Seghue*
 
--->
