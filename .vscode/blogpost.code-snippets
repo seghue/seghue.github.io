@@ -1,0 +1,19 @@
+{
+	"Post Template": {
+		"scope": "markdown",
+		"prefix": "pst",
+		"body": [
+			"",
+			"## ${1:title}",
+			"",
+			"Post ID: ${2:ID}  ",
+			"`${CURRENT_DATE}-${CURRENT_MONTH}-${CURRENT_YEAR}`",
+			"",
+			"${6:content}",
+			"",
+			"-*Seghue*",
+			""
+		],
+		"description": "Basic post template"
+	}
+}
