@@ -91,7 +91,7 @@ Dare to make something with Claude!
 Post ID: 6  
 `08-02-2025`
 
-I think everyone will be familiar with 'throwing' as a term, it's not anything special or particular to a given sport or activity - just anything competitive.
+I think everyone will be familiar with 'throwing' as a term, it's not a special word nor particular to a given activity - it applies to anything competitive (but especially sports and games).
 
 _However..._  
 Try these terms:
