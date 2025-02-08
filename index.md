@@ -82,4 +82,6 @@ You can too, whether Claude is the only model competent at this, I'm unsure. But
 
 Dare to make something with Claude!
 
+> _To be clear, while I am enthusiastic about leveraging AI in my professional and personal life, I don't use it in this blog._
+
 -*Seghue*
