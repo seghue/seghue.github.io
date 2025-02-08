@@ -60,3 +60,26 @@ I've not substantially read into this, it's all theoretical head-cannon, but it 
 
 -*Seghue*
 
+
+## Making, Fixing, and Tinkering with Claude
+
+Post ID: 5  
+`08-02-2025`
+
+I've always been a little bit hands-on, but many domains of life I had abstracted away to "someone else's problem". For example:
+* The oven man fixes the oven
+* The plumber fixes the toilet, sink, taps, shower, and boiler (_beyond having pipes and water in common, I'm not convinced taps and boilers are all that similar..._)
+* The electrician comes and fixes anything wired into the mains
+
+Well, no longer. With Claude, not only can I make small but important mistakes in code, I can do so with practical projects and repair work!
+In all sincerity, Claude has been an absolute godsend in recent days. I have been able to wire together contraptions, fix faulty products that I had been putting off, and learn to use physical tools that I'd never really taken the time to understand before.
+
+If you're even remotely curious about doing a small electronic project, a Raspberry Pi thing, or fixing the sparker on your oven (as I did, or will when the part arrives), you simply must try asking Claude. Give him questions and uncertainties as you go, give him extra context and part numbers, point out things you're curious about. It's like having a senior expert with you that has mild brain damage. 99% of the time he's great, but that 1% you've just got to watch out for.
+
+I'm comfortable making this tradeoff, because the time and cost efficiencies are incredible, and I'm learning so much.
+
+You can too, whether Claude is the only model competent at this, I'm unsure. But he does ask follow up questions which have spurred great ideas, precautions, and considerations that I would otherwise not have had.
+
+Dare to make something with Claude!
+
+-*Seghue*
