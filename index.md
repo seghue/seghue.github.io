@@ -46,3 +46,17 @@ Post ID: 3
 
 -*Seghue*
 
+
+## West End Girls, air quality, and prevailing winds
+
+Post ID: 4  
+`08-02-2025`
+
+I ran across a post not so many days ago discuss the impact of prevailing winds on economic and social disparity in Britain. A common phenomenon found across Britain is that the West side of major population centres, especially historic ones, is more highly developed, more affluent, and sometimes more gentrified than the East side. 
+
+I posit that the Pet Shop Boys (PSBs) were observing this disparity in the fair, affluent 'West End Girls' they wrote about. Meanwhile, the PSBs sought to identify with the more rough-and-ready, up-and-coming East End Boys - who no doubt would have had to go above and beyond to overcome the social and economic disparities faced between the two halves of London.
+
+I've not substantially read into this, it's all theoretical head-cannon, but it feels very accurate.
+
+-*Seghue*
+

@@ -1,7 +1,7 @@
 {
 	"Post Template": {
 		"scope": "markdown",
-		"prefix": "pst",
+		"prefix": "newPost",
 		"body": [
 			"",
 			"## ${1:title}",
