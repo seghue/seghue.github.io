@@ -107,3 +107,16 @@ Post ID: 8
 In a few years time (1-5 years from current date), residents in the West will consider Air Quality to be as important as fire safety, recycling, or gun control. The health effects of poor air quality are well understood in the literature. Before long, a domestic air filter will be a standard requirement in all British newbuilds, and their presence in homes as a domestic appliances will surge in the coming years.
 
 -*Seghue*
+
+
+## A quarter of a crumb
+
+Post ID: 9  
+`09-02-2025`
+
+> "They spared no quarter."
+> "They left no crumbs."
+
+^ same energy.
+
+-*Seghue*
