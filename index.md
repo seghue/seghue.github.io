@@ -120,3 +120,20 @@ Post ID: 9
 ^ same energy.
 
 -*Seghue*
+
+
+## Earthquakes
+
+Post ID: 10  
+`09-02-2025`
+
+Living through a (small) earthquake - while awake - really should be on your bucket list.
+_(Do people still do bucket lists?!)_
+
+Depending on your risk appetite, holiday destinations experiencing minor tremors are a great destination:
+* Cheap hotel prices
+* Potentially cross one item off your bucket list
+
+No brainer!
+
+-*Seghue*
