@@ -85,3 +85,15 @@ Dare to make something with Claude!
 > _To be clear, while I am enthusiastic about leveraging AI in my professional and personal life, I don't use it in this blog._
 
 -*Seghue*
+
+
+
+## Speed typing
+
+Post ID: 7  
+`09-02-2025`
+
+> _"Switching to your keyboard is faster than voice typing."_
+- Cpt. Price
+
+-*Seghue*
