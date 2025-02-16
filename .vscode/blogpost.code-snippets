@@ -1,6 +1,5 @@
 {
 	"Post Template": {
-		"scope": "markdown",
 		"prefix": "newPost",
 		"body": [
 			"",

@@ -88,6 +88,7 @@ Dare to make something with Claude!
 
 
 
+<<<<<<< HEAD
 ## Speed typing
 
 Post ID: 7  
@@ -137,3 +138,23 @@ Depending on your risk appetite, holiday destinations experiencing minor tremors
 No brainer!
 
 -*Seghue*
+=======
+## Moba vernacular in common discourse: you're carrying
+
+Post ID: 6  
+`08-02-2025`
+
+I think everyone will be familiar with 'throwing' as a term, it's not anything special or particular to a given sport or activity - just anything competitive.
+
+_However..._  
+Try these terms:
+* Griefing
+* Carrying
+* Feeding
+* Broken (to mean overpowered)
+* Imba'
+* 
+
+-*Seghue*
+
+>>>>>>> 4d09787 (added post 6, work in progress)
